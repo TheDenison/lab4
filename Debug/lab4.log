@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  Common.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\common.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\common.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\common.cpp(3): note: использование предварительно скомпилированного заголовка
+  Date.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\date.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\date.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\date.cpp(3): note: использование предварительно скомпилированного заголовка
+  delivery1.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery1.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\delivery1.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\delivery1.cpp(3): note: использование предварительно скомпилированного заголовка
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery1.cpp(64): warning C4101: buf: неиспользованная локальная переменная
+  delivery2.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery2.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\delivery2.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\delivery2.cpp(3): note: использование предварительно скомпилированного заголовка
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery2.cpp(52): warning C4101: buf: неиспользованная локальная переменная
+  FIO.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\fio.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\fio.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\fio.cpp(3): note: использование предварительно скомпилированного заголовка
+  friends.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\friends.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\friends.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\friends.cpp(3): note: использование предварительно скомпилированного заголовка
+  lab4.cpp
+c:\users\денис\source\repos\sergeev_lab4\lab4\lab4.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\денис\source\repos\sergeev_lab4\lab4\lab4.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\денис\source\repos\sergeev_lab4\lab4\lab4.cpp(2): note: использование предварительно скомпилированного заголовка
+  Создание кода...
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery2.cpp(49): warning C4715: delivery2::month_in_digit: значение возвращается не при всех путях выполнения
+c:\users\денис\source\repos\sergeev_lab4\lab4\delivery1.cpp(61): warning C4715: delivery1::month_in_digit: значение возвращается не при всех путях выполнения
+  lab4.vcxproj -> C:\Users\Денис\source\repos\Sergeev_lab4\Debug\lab4.exe
